@@ -100,6 +100,6 @@ app.get("*",(req,res)=>{
 })
 
 // serving port
-app.listen(3000)
+app.listen(port)
 
 
